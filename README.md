@@ -25,7 +25,7 @@
 ---
 
 ### 📊 Stats & Impact
-[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=julian-dqtr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=julian-dqtr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=julian-dqtr&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
