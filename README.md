@@ -17,15 +17,15 @@
 ---
 
 ### 🛠️ Tech Stack
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-%23FF6F61.svg?style=flat-square&logo=pytorch&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
 ### 📊 Stats & Impact
-[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=julian-dqtr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=julian-dqtr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=julian-dqtr&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
