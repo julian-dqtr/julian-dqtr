@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 - 🎓 **Education**: Currently pursuing a Master of Science in Artificial Intelligence at **CentraleSupélec** (Gif-sur-Yvette, France).
-- 🔬 **Research Focus**: **Developing GNN-based generative models to impute and restore missing multimodal biomedical data for precision medicine**.
+- 🔬 **Research Focus**: **Developing GNN-based generative models to impute and restore missing multimodal biomedical data**.
 - 🌱 **Learning Journey**: I'm still fairly new to AI, it's a field I really enjoy, and I know I still have a lot to learn and explore in this area.
 - 💡 **Interests**: 
   - **GNNs** & **Geometric Deep Learning**.
