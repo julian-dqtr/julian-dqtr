@@ -25,13 +25,9 @@
 
 ### 📊 Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julian-dqtr&show_icons=true&theme=tokyonight" alt="Julian's GitHub stats" />
-</div>
+![Julian's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=julian-dqtr&show_icons=true&theme=tokyonight)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=julian-dqtr&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=julian-dqtr&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
