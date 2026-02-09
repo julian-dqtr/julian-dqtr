@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Julian Dequatre</h1>
+<h1 align="center">Hi 👋 I'm Julian </h1>
 
-<p align="center"> 
-  Welcome! You are the <img src="https://profile-counter.glitch.me/julian-dqtr/count.svg" /> visitor!
-</p>
+
 
 ###
-
-- 😄 Hi there, I'm Julian Dequatre. I am a MSc AI student at CentraleSupélec.
 - 🔭 My research interests include **Graph Neural Networks**, **Geometric Deep Learning**, and **Computer Vision**.
 - 🎓 Currently developing **GNN-based generative models to impute and restore missing multimodal biomedical data**.
 - 💡 Also interested in **Model Compression** (Quantization, Pruning, Tuning & Efficiency) and **AI Applications in Healthcare**.
@@ -44,11 +40,11 @@
 
 ## 🎓 Certifications
 
-- 🔄 **PyTorch for Deep Learning Specialization** - DeepLearning.AI *(Ongoing)*
-- 📜 **Quantization in Depth** - DeepLearning.AI
-- 📜 **Quantization Fundamentals with Hugging Face** - DeepLearning.AI
-- 📜 **Machine Learning Specialization** - Stanford Online
-- 📜 **Mathematics for Machine Learning and Data Science Specialization** - Coursera
+- **PyTorch for Deep Learning Specialization** - DeepLearning.AI *(Ongoing)*
+- **Quantization in Depth** - DeepLearning.AI
+- **Quantization Fundamentals with Hugging Face** - DeepLearning.AI
+- **Machine Learning Specialization** - Stanford Online
+- **Mathematics for Machine Learning and Data Science Specialization** - Coursera
 ---
 
 ## 📫 Socials
