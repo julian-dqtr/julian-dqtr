@@ -3,7 +3,7 @@
 
 
 ###
-- 🔭 My research interests include **Graph Neural Networks**, **Geometric Deep Learning**, and **Computer Vision**.
+- 🔭 My interests include **Graph Neural Networks**, **Geometric Deep Learning**, and **Computer Vision**.
 - 🎓 Currently developing **GNN-based generative models to impute and restore missing multimodal biomedical data**.
 - 💡 Also interested in **Model Compression** (Quantization, Pruning, Tuning & Efficiency) and **AI Applications in Healthcare**.
 - 📍 Based in Orsay, France 🇫🇷
