@@ -34,7 +34,7 @@
 
 ![](https://github-readme-stats-defcon27.vercel.app/api?username=julian-dqtr&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=julian-dqtr&theme=react&hide_border=true)<br/>
-
+![](https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=julian-dqtr&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 🎓 Certifications
