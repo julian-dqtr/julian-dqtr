@@ -26,10 +26,13 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img height="195em" src="https://github-readme-stats-defcon27.vercel.app/api?username=julian-dqtr&theme=react&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height="195em" src="https://nirzak-streak-stats.vercel.app/?user=julian-dqtr&theme=react&hide_border=true" style="margin-left: 10px;"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=julian-dqtr&theme=react&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=julian-dqtr&theme=react&hide_border=true" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julian-dqtr&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=350" />
 </div>
 
 ---
