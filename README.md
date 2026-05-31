@@ -54,3 +54,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julian-dequatre)
 
 ---
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=julian-dqtr&color=blueviolet&style=flat-square)
