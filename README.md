@@ -34,8 +34,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=julian-dqtr&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com/?user=julian-dqtr&theme=solarized-dark&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api?username=julian-dqtr&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=julian-dqtr&theme=solarized-dark&hide_border=false" width="51.57%" />
 </p>
 
 ---
