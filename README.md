@@ -9,7 +9,7 @@
 - 💡 Also interested in **Model Compression** (Quantization, Pruning).
 - 📍 Based in Stockholm, Sweden 🇸🇪
 
----
+
 
 ## 💻 Tech Stack
 
@@ -23,13 +23,12 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![ODL](https://img.shields.io/badge/ODL-%23005A9C.svg?style=for-the-badge)
-![parallelproj](https://img.shields.io/badge/parallelproj-%23E05310.svg?style=for-the-badge)
+![Astra](https://img.shields.io/badge/astra-%23014167.svg?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -38,7 +37,7 @@
   <img src="https://streak-stats.demolab.com/?user=julian-dqtr&theme=solarized-dark&hide_border=false" width="51.57%" />
 </p>
 
----
+
 
 ## 🎓 Certifications
 
@@ -47,13 +46,10 @@
 - **Quantization Fundamentals with Hugging Face** - DeepLearning.AI
 - **Machine Learning Specialization** - Stanford Online
 - **Mathematics for Machine Learning and Data Science Specialization** - Coursera
----
+
 
 ## 📫 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julian-dequatre)
 
----
-## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=julian-dqtr&color=blueviolet&style=flat-square)
