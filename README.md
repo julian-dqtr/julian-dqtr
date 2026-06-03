@@ -33,8 +33,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=julian-dqtr&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=julian-dqtr&theme=solarized-dark&hide_border=false" width="51.57%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=julian-dqtr&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=julian-dqtr&theme=solarized-dark&hide_border=false" width="51.57%" />
 </p>
 
 
